@@ -37,7 +37,7 @@
     <string name="group_wallpapers" msgid="1568191644272224858">"Fondos de pantalla"</string>
     <string name="add_folder" msgid="3521088587367839879">"Carpeta"</string>
     <string name="add_clock" msgid="2337943840175865746">"Reloj"</string>
-    <string name="add_photo_frame" msgid="3154058437359487954">"Picture frame"</string>
+    <string name="add_photo_frame" msgid="3154058437359487954">"Marco de Foto"</string>
     <string name="add_search" msgid="7104834713685095105">"Búsqueda de Google"</string>
     <string name="out_of_space" msgid="8365249326091984698">"No queda espacio en esta pantalla de página principal."</string>
     <string name="shortcut_installed" msgid="7071557296331322355">"Se ha creado el acceso directo \"<xliff:g id="NAME">%s</xliff:g>\"."</string>
@@ -53,13 +53,13 @@
     <string name="menu_notifications" msgid="6424587053194766192">"Notificaciones"</string>
     <string name="menu_gestures" msgid="514678675575912237">"Gestos"</string>
     <string name="menu_settings" msgid="6233960148378443661">"Ajustes"</string>
-    <string name="permlab_install_shortcut" msgid="1201690825493376489">"instalar accesos directos"</string>
+    <string name="permlab_install_shortcut" msgid="1201690825493376489">"Instalar accesos directos"</string>
     <string name="permdesc_install_shortcut" msgid="7429365847558984148">"Permite que una aplicación añada accesos directos sin intervención del usuario."</string>
-    <string name="permlab_uninstall_shortcut" msgid="7696645932555926449">"desinstalar accesos directos"</string>
+    <string name="permlab_uninstall_shortcut" msgid="7696645932555926449">"Desinstalar accesos directos"</string>
     <string name="permdesc_uninstall_shortcut" msgid="959972195916090900">"Permite que una aplicación elimine accesos directos sin intervención del usuario."</string>
-    <string name="permlab_read_settings" msgid="3452408290738106747">"leer información de accesos directos y de configuración de la página principal"</string>
+    <string name="permlab_read_settings" msgid="3452408290738106747">"Leer información de accesos directos y de configuración de la página principal"</string>
     <string name="permdesc_read_settings" msgid="8377434937176025492">"Permite que una aplicación lea la información de configuración y accesos directos de la página principal."</string>
-    <string name="permlab_write_settings" msgid="1360567537236705628">"escribir información de accesos directos y de configuración de la página principal"</string>
+    <string name="permlab_write_settings" msgid="1360567537236705628">"Escribir información de accesos directos y de configuración de la página principal"</string>
     <string name="permdesc_write_settings" msgid="1098648778383349818">"Permite que una aplicación modifique la configuración y los accesos directos de la página principal."</string>
     <string name="search_hint" msgid="6974176141372467453">"Búsqueda de Google"</string>
     <string name="gadget_error_text" msgid="8359351016167075858">"Problema al cargar el widget"</string>
